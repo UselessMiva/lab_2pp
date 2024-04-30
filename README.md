@@ -21,4 +21,4 @@ main.py - Python скрипт для проверки результатов C++
 graph.png - График зависимости времени перемножения матриц от их размера для параллельных и обычных вычислений
 
 График:
-!(https://github.com/UselessMiva/lab_2pp/blob/main/graph.png)
+![alt text](http://github.com/UselessMiva/lab_2pp/blob/main/graph.png)
